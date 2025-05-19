@@ -1,0 +1,8 @@
+Why do we use while loops in Python?
+
+	To repeat some code while a condition is true
+
+Which general while loop definition is written correctly?
+
+	while condition:
+		# code

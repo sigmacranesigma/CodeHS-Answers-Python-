@@ -1,0 +1,14 @@
+Each of the following answer choices describes a basketball game.
+
+Which answer choice describes the game with the lowest level of abstraction?
+
+	First, Steph Curry flexed his left and right quad muscles at the exact same time, then he flexed each muscle in his fingers…
+
+
+
+Karel needs to pick up a pile of tennis balls.
+
+Which of the following program functions solves the problem at the highest level of abstraction?
+
+	move_to_pile()
+	take_pile()

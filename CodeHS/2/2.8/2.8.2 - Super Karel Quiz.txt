@@ -1,0 +1,3 @@
+What commands does SuperKarel know that regular Karel does not?
+
+	turn_around() and turn_right()

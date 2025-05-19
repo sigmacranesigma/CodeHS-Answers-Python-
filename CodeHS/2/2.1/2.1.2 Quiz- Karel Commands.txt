@@ -1,0 +1,8 @@
+Which of these is a valid Karel command?
+
+	move()
+
+Which one of these is NOT a command that Karel knows?
+
+	Turn Right
+

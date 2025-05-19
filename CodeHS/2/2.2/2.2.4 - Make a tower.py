@@ -1,0 +1,12 @@
+# Go forward, turn left to go up, place a ball, and repeat.
+move()
+turn_left()
+put_ball()
+move()
+put_ball()
+move()
+put_ball()
+move()
+turn_left()
+turn_left()
+turn_left()

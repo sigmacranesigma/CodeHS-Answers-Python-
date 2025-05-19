@@ -1,0 +1,7 @@
+Why do we use if statements in Python?
+	
+	To do something only if a condition is true
+
+Which general if statement definition is written correctly?
+
+	B
